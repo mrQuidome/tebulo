@@ -1,18 +1,1 @@
-dit is een geshared bestand
-<<<<<<< HEAD
-Ja dag
-=======
 iets nieuws
-test
-<<<<<<< HEAD
-test
-Martijn was hier 2
-=======
-
-
- LBfdsa
-fsf
-maartijnn  kijk is hier
-
->>>>>>> 87eb4d986e22f196c469f3e9ed525081c146ba88
->>>>>>> 122549053f88995b0657804ace6b370fa1a9e848
